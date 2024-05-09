@@ -68,7 +68,7 @@ ul li{
     font-weight: 400;
 }
 .box-card{
-    width: 400px;
+    width: 450px;
     background-color: white;
     padding: 30px;
     border-radius: 15px;
@@ -80,7 +80,7 @@ input, textarea{
     border: 0;
 }
 .form-input{
-    border: solid 1px #7077A1;
+    border: solid 2px #7077A1;
     padding: 8px;
     border-radius: 10px;
     margin-bottom: 20px;
@@ -117,6 +117,21 @@ a{
 a:hover{
     background-color: #2D3250;
     color: white;
+}
+
+
+.title-2, .title-1{
+    padding: 40px 0px 40px 0px;
+}
+
+.text-form2{
+    color: black;
+    font-weight: bold;
+}
+
+.name-box{
+    display: flex;
+    justify-content: space-around;
 }
 
 
